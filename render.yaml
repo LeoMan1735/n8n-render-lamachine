@@ -33,7 +33,7 @@ services:
       - key: PORT
         value: 5678
       - key: N8N_LOG_LEVEL
-        value: verbose
+        value: info
       - key: GENERIC_TIMEZONE
         value: Europe/Paris
       - key: TZ
